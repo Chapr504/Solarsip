@@ -1,4 +1,4 @@
-# 🍼SolarSip
+# **🍼SolarSip
 
 **Smart, solar-powered hydration for every adventure.**
 
