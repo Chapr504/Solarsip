@@ -36,7 +36,7 @@ Email me at [Chauhanprisha2207@gmail.com](mailto:Chauhanprisha2207@gmail.com)
 
 ## 🚀 Try It
 
-Open [`index.html`](index.html) in your browser to see the project landing page.
+Open [`https://chapr504.github.io/Solarsip/`](https://chapr504.github.io/Solarsip/) in your browser to see the project landing page.
 
 ## 📄 License
 
