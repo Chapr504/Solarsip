@@ -37,7 +37,7 @@ SolarSip brings:
    
 ## 👤 About the Creator
 
-Hi! I'm [Prisha Chauhan], a young inventor who loves solving real-world problems. I created SolarSip to help people stay healthy and hydrated in an eco-friendly way.
+Hi! I'm Prisha Chauhan, a young inventor who loves solving real-world problems. I created SolarSip to help people stay healthy and hydrated in an eco-friendly way, and most importantly, help people in need who don't have enough clean water to drink.
 
 ## 📬 Get in Touch
 
