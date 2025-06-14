@@ -15,6 +15,7 @@ SolarSip brings:
 - 🌞 **Solar-powered temperature control**
 - 💧 **Self-cleaning UV technology**
 - ⏰ **Smart hydration reminders**
+- 🍃 **Converts dirty water into fresh drinkable water**
   
 ## Ways Of Usage
 
