@@ -19,10 +19,20 @@ SolarSip brings:
 ## Ways Of Usage
 
 1) Twist the circular shaped grey button on the top
+
+
 2) Open the water chamber then fill with dirty water.
+
+
 3) Make the top of the bottle (where solar panel if) face the sun.
+
+
 4) Wait for a 'beep' sound
-5) And in around 15-20 minutes the water will be filtered.
+
+
+5) And in around 15-20 minutes the water will be filtered and ready to be drank.
+
+
 
    
 ## 👤 About the Creator
