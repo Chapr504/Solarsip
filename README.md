@@ -25,7 +25,7 @@ SolarSip brings:
 2) **Open the water chamber then fill with dirty water.**
 
 
-3) **Make the top of the bottle (where solar panel if) face the sun.**
+3) **Make the top of the bottle (where solar panel is) face the sun.**
 
 
 4) **Wait for a 'beep' sound.**
